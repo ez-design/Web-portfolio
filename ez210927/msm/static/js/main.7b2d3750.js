@@ -11299,7 +11299,7 @@
       function qt() {
         var t = a(
             (0, e.useState)(
-              "http://ezportfolio.cafe24.com/ez210927/msm/projectA"
+              "ez210927/msm/projectA"
             ),
             2
           ),
@@ -11444,7 +11444,7 @@
               iconTop: 200,
               iconLeft: 200,
               title: "\ub124\uc774\ubc84 \uc601\ud654",
-              url: "http://ezportfolio.cafe24.com/ez210927/msm/projectA",
+              url: "ez210927/msm/projectA",
               isOpen: r,
               setIsOpen: o,
               fullSize: u,
@@ -11454,7 +11454,7 @@
               iconTop: 400,
               iconLeft: 400,
               title: "\ub124\uc774\ubc84 \uc601\ud654",
-              url: "http://ezportfolio.cafe24.com/ez210927/msm/projectA",
+              url: "ez210927/msm/projectA",
               isOpen: r,
               setIsOpen: o,
               fullSize: u,
@@ -11604,7 +11604,7 @@
               (0, l.jsx)(Xt, {
                 children: (0, l.jsx)(tn, {
                   title: "\ub124\uc774\ubc84 \uc601\ud654",
-                  src: "http://ezportfolio.cafe24.com/ez210927/msm/projectA",
+                  src: "ez210927/msm/projectA",
                   top: "200",
                   left: "200",
                 }),
