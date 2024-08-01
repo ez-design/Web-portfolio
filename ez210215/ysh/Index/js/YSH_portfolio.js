@@ -24,7 +24,7 @@ $(document).ready(function () {
         window.open('https://bonnie-yang94.github.io/Portfolis2/index.html');     
     });
     $('.pdf').click(function(){
-        window.open('ez210215/pdf/ysh_presentation.pdf');
+        window.open('https://ez-design.github.io/Web-portfolio/ez210215/pdf/ysh_presentation.pdf');
     });
 });
 
